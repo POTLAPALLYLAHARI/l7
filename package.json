@@ -9,7 +9,6 @@
     "test": "jest",
     "prepare":"husky install"
   },
-  },
   "lint-staged": {
     "*.js": [
       "eslint",
